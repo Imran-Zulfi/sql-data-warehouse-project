@@ -87,9 +87,5 @@ data-warehouse-project/
 ```
 ---
 
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
 ## 🌟 About Me
+I am Data Engineer having 5+ year of Experiecne feel free to connect 
